@@ -7,6 +7,8 @@ mod bytes_alloc_vec;
 mod bytes_buffer;
 mod bytes_slice;
 mod bytesn;
+mod bytesn_bench;
+mod bytesn_bench_wasm;
 mod cmp_across_env_in_tests;
 mod contract_add_i32;
 mod contract_assert;

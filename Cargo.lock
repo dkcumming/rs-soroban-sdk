@@ -1829,6 +1829,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "test_bytesn_bench"
+version = "26.0.1"
+dependencies = [
+ "soroban-sdk",
+]
+
+[[package]]
 name = "test_constructor"
 version = "26.0.1"
 dependencies = [
