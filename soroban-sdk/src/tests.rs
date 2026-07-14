@@ -5,6 +5,8 @@ mod address_payload;
 mod auth;
 mod bytes_alloc_vec;
 mod bytes_buffer;
+mod bytes_iter_bench;
+mod bytes_iter_bench_wasm;
 mod bytes_slice;
 mod bytesn;
 mod cmp_across_env_in_tests;

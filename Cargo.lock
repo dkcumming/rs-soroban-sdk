@@ -1840,6 +1840,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "test_bytes_iter_bench"
+version = "27.0.0"
+dependencies = [
+ "soroban-sdk",
+]
+
+[[package]]
 name = "test_constructor"
 version = "27.0.0"
 dependencies = [
